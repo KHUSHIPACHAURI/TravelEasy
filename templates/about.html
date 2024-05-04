@@ -1,0 +1,111 @@
+{% extends "headers.html" %}
+{% block content %}
+
+<!-- Main Content -->
+<main class="bg-light bg-gradient" style="margin-top: 0;">
+  <h2 class="display-1 text-center" style="margin-top: 145px;"> About Us</h2>
+
+
+  <div class="card border-primary" style="border-left-width: thick">
+
+    <div class="card-body">
+      <img src="{{url_for('static',filename='travel-icon.jpg')}}" class="img-fluid" alt="About Us"
+        style="border-radius: 10px; float: right; width: 30%; height: 30%;" />
+
+      <p class="card-text">
+        Welcome to TravelEasy, your ultimate companion for crafting unforgettable travel experiences with ease and
+        convenience. At TravelEasy, we recognize that every journey is as unique as you are, which is why we're
+        committed to providing the tools and resources necessary to transform your travel dreams into reality.
+      </p>
+      <p class="card-text">
+        In our quest to simplify travel for budget-conscious adventurers like yourself, TravelEasy is dedicated to
+        streamlining the planning process, whether you're embarking on a solo escapade, a family adventure, or a group
+        expedition. Our platform empowers you to create tailor-made itineraries that reflect your interests and
+        preferences, ensuring each trip is a true reflection of your individuality.
+      </p>
+      <p class="card-text">
+        In today's fast-paced world, decision-making is more important than ever. That's why TravelEasy harnesses the
+        power of cutting-edge technology, combining artificial intelligence, data analysis, and intuitive interfaces to
+        deliver unparalleled convenience and efficiency. From destination recommendations to real-time updates, budget
+        management, and offline guidance, we've got you covered at every step of your journey, prioritizing your safety
+        and peace of mind.
+      </p>
+      <p class="card-text">
+        As fellow travel enthusiasts, we're dedicated to ensuring that every adventure with TravelEasy is as
+        exhilarating as it is enlightening. Join us as we embark on a journey of discovery, exploring the wonders of our
+        world and creating memories to last a lifetime.
+      </p>
+      <p class="card-text">
+        Your dream vacation is within reach – don't let it remain just a dream. Dive into the world of TravelEasy today
+        and unlock a world of possibilities. Your next adventure awaits!
+      </p>
+    </div>
+  </div>
+</main>
+<!-- Share Icon -->
+<div class="floating-container">
+  <div class="floating-button">
+    <i class="fa-solid fa-share-from-square"></i>
+  </div>
+  <!-- Elements -->
+  <div class="element-container">
+    <!-- Facebook -->
+    <a class="float-element" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//sanjeev02.pythonanywhere.com/"
+      target="_blank">
+      <span>
+        <i class="fa-brands fa-facebook"></i>
+    </a>
+
+    <!-- WhatsApp -->
+    </span>
+    <a class="float-element"
+      href="https://api.whatsapp.com/send?text=Check%20out%20this%20page:%20https://sanjeev02.pythonanywhere.com"
+      target="_blank">
+      <span>
+        <i class="fa-brands fa-whatsapp"></i>
+      </span>
+    </a>
+
+    <!-- Twitter or X -->
+    <a class="float-element"
+      href="https://twitter.com/intent/tweet?text=Check%20out%20this%20page:%20https://sanjeev02.pythonanywhere.com"
+      target="_blank">
+      <span>
+        <i class="fa-brands fa-x-twitter"></i>
+      </span>
+    </a>
+
+    <!-- LinkedIn -->
+    <a class="float-element"
+      href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//sanjeev02.pythonanywhere.com" target="_blank">
+      <span>
+        <i class="fa-brands fa-linkedin"></i>
+      </span>
+    </a>
+
+    <!-- Telegram -->
+    <a class="float-element"
+      href="https://t.me/share?url=https%3A%2F%2Fsanjeev02.pythonanywhere.com%2F&text=Check%20this%20out"
+      target="_blank">
+      <span>
+        <i class="fa-brands fa-telegram"></i>
+      </span>
+    </a>
+
+  </div>
+</div>
+
+<!-- Footer -->
+
+<footer class="jumbotron text-center text-white fixed-bottom" style="background-color: #030303">
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: rgba(255, 255, 255, 0)">
+    <p>
+      By NexTech
+    </p>
+  </div>
+</footer>
+{% endblock %}
+</body>
+
+</html>
