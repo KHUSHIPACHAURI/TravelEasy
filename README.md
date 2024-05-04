@@ -15,8 +15,11 @@ https://github.com/KHUSHIPACHAURI/TravelEasy/assets/96839853/1bb28cda-28e1-4794-
 
 # ScreenShots
 
-![sc2](https://github.com/KHUSHIPACHAURI/TravelEasy/assets/96839853/871f35db-5c26-4a30-8ac3-e01cdcb7b61c)
+Home Page
 ![sc1](https://github.com/KHUSHIPACHAURI/TravelEasy/assets/96839853/959639b8-7298-4ea0-9e43-b41a01e48bb4)
+Register Page
 ![sc4](https://github.com/KHUSHIPACHAURI/TravelEasy/assets/96839853/26ad404e-57f9-48d2-938b-cb4cd77cccfc)
+Itinerary page
+![sc2](https://github.com/KHUSHIPACHAURI/TravelEasy/assets/96839853/871f35db-5c26-4a30-8ac3-e01cdcb7b61c)
 ![sc3](https://github.com/KHUSHIPACHAURI/TravelEasy/assets/96839853/fec939a8-bf98-4265-b73e-ec001609bef5)
 
