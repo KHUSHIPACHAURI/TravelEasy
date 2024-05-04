@@ -1,6 +1,7 @@
 ## TravelEasy
 
 Create your dream trip hassle-free with TravelEasy! Our user-friendly planner is your ultimate partner for crafting smooth travel experiences. Whether it's a road trip, city jaunt, or international adventure, our tool makes planning a breeze. Simplify your journey from start to finish with TravelEasy!
+
 ![travel-icon2](https://github.com/KHUSHIPACHAURI/TravelEasy/assets/96839853/e8e223df-1611-4369-a61f-0cd4e8fd5c9a)
 
 # Demo
